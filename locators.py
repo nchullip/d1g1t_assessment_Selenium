@@ -1,0 +1,7 @@
+top_seller_xpath = "//div[@class='home_topsellers_games_ctn']/a"
+game_name_xpath = "//div[@id='appHubAppName']"
+game_release_date = "//div[@class='release_date']/div[2]"
+discount_xpath = "/div[2]/div"
+no_discount_xpath = "//div[contains(@class, 'discount_block discount_block_inline no_discount')]"
+view_page_btn_xpath = "//a[@id='view_product_page_btn']"
+year_drp_dwn_xpath = "//select[@id='ageYear']"

@@ -19,3 +19,5 @@ This contains solution to d1g1t assessment on Selenium
 * The script navigates to the website (store.steampowered.com) and traverses through each game in the Top Seller section collecting all relevant information.
 * The script prints the name of the game on the console. This is **NOT** arranged alphabetically.
 * The games are arranged alphabetically and stored in the output file (***sorted_output.csv***) with the attributes **Name, Release Date, Category, Price**
+* Please Note, in the Output file, data in the Name is encoded and displayed.
+
